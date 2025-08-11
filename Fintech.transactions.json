@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "6899e614b8396b230f154f3e"
+  },
+  "userId": {
+    "$oid": "6899d7d68aa83c0836884624"
+  },
+  "title": "Test Transaction",
+  "amount": 500,
+  "type": "income",
+  "description": "Salary for August",
+  "createdAt": {
+    "$date": "2025-08-11T12:46:12.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T12:46:12.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6899e62db8396b230f154f40"
+  },
+  "userId": {
+    "$oid": "6899d7d68aa83c0836884624"
+  },
+  "title": "Test Transaction",
+  "amount": 500,
+  "type": "income",
+  "description": "Salary for August",
+  "createdAt": {
+    "$date": "2025-08-11T12:46:37.047Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T12:46:37.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a04eb6294ab738011b4be"
+  },
+  "userId": {
+    "$oid": "6899d7d68aa83c0836884624"
+  },
+  "title": "bug",
+  "amount": 100,
+  "type": "expense",
+  "description": "found bug and deleted",
+  "createdAt": {
+    "$date": "2025-08-11T14:57:47.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T14:57:47.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a06976294ab738011b4da"
+  },
+  "userId": {
+    "$oid": "6899d7d68aa83c0836884624"
+  },
+  "title": "tes2",
+  "amount": 5,
+  "type": "expense",
+  "description": "adas",
+  "createdAt": {
+    "$date": "2025-08-11T15:04:55.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T15:04:55.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a08996294ab738011b4f6"
+  },
+  "userId": {
+    "$oid": "6899d7d68aa83c0836884624"
+  },
+  "title": "1",
+  "amount": 1,
+  "type": "expense",
+  "description": "",
+  "createdAt": {
+    "$date": "2025-08-11T15:13:29.403Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T15:13:29.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a09ca6294ab738011b50f"
+  },
+  "userId": {
+    "$oid": "6899d7d68aa83c0836884624"
+  },
+  "title": "2",
+  "amount": 2,
+  "type": "expense",
+  "description": "as",
+  "createdAt": {
+    "$date": "2025-08-11T15:18:34.535Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T15:18:34.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a0a756294ab738011b512"
+  },
+  "userId": {
+    "$oid": "6899d7d68aa83c0836884624"
+  },
+  "title": "addon",
+  "amount": 200,
+  "type": "income",
+  "description": "finallly",
+  "createdAt": {
+    "$date": "2025-08-11T15:21:25.003Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T15:21:25.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a0bc36294ab738011b519"
+  },
+  "userId": {
+    "$oid": "6899d7d68aa83c0836884624"
+  },
+  "title": "finally done",
+  "amount": 1000,
+  "type": "income",
+  "description": "done finally",
+  "createdAt": {
+    "$date": "2025-08-11T15:26:59.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T15:26:59.512Z"
+  },
+  "__v": 0
+}]
